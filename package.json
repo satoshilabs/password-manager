@@ -29,7 +29,7 @@
     "ionicons": "^2.0.1",
     "papaparse": "^4.3.7",
     "prettier": "^1.14.2",
-    "react": "^0.13.2",
+    "react": "^0.14.0",
     "react-bootstrap": "^0.26.0",
     "react-router": "^0.13.0",
     "react-textarea-autosize": "^2.5.4",
