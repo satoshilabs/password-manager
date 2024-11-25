@@ -35,7 +35,7 @@
     "react-textarea-autosize": "^2.5.4",
     "tldjs": "^1.6.2",
     "trezor-connect": "8.1.1",
-    "validator": "^5.5.0",
+    "validator": "^13.7.0",
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.0.0",
     "whatwg-fetch": "^0.9.0"
